@@ -1,0 +1,588 @@
+fileFormatVersion: 2
+guid: 22fc4f36b19fead4db285c15fdc8f204
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8091489471787380429
+    second: clothes-icon-png-24_0
+  - first:
+      213: -2537680139450347409
+    second: clothes-icon-png-24_1
+  - first:
+      213: -627672592453204651
+    second: clothes-icon-png-24_2
+  - first:
+      213: -3493402576410820397
+    second: clothes-icon-png-24_3
+  - first:
+      213: -7130986345506969307
+    second: clothes-icon-png-24_4
+  - first:
+      213: 6783168378858690798
+    second: clothes-icon-png-24_5
+  - first:
+      213: -1273560455067996053
+    second: clothes-icon-png-24_6
+  - first:
+      213: -7233561000595478213
+    second: clothes-icon-png-24_7
+  - first:
+      213: -1764619409982758556
+    second: clothes-icon-png-24_8
+  - first:
+      213: 4344399104740125183
+    second: clothes-icon-png-24_9
+  - first:
+      213: 8387690013013900984
+    second: clothes-icon-png-24_10
+  - first:
+      213: 6995410168216108317
+    second: clothes-icon-png-24_11
+  - first:
+      213: -8574529012920925177
+    second: clothes-icon-png-24_12
+  - first:
+      213: -3731738502594844671
+    second: clothes-icon-png-24_13
+  - first:
+      213: 8271623443898233890
+    second: clothes-icon-png-24_14
+  - first:
+      213: -6940350903539917654
+    second: clothes-icon-png-24_15
+  - first:
+      213: 5851607274750634845
+    second: clothes-icon-png-24_16
+  - first:
+      213: 2029505925565947352
+    second: clothes-icon-png-24_17
+  - first:
+      213: -3190981093947102870
+    second: clothes-icon-png-24_18
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: clothes-icon-png-24_0
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 414
+        width: 128
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 331dc4a223145bf80800000000000000
+      internalID: -8091489471787380429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clothes-icon-png-24_1
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 410
+        width: 128
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f609f7ebb5958ccd0800000000000000
+      internalID: -2537680139450347409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clothes-icon-png-24_2
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 504
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 555049b4a1f0a47f0800000000000000
+      internalID: -627672592453204651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clothes-icon-png-24_3
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 401
+        width: 89
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d049979dd0f48fc0800000000000000
+      internalID: -3493402576410820397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clothes-icon-png-24_4
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 427
+        width: 76
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52965e943b5a90d90800000000000000
+      internalID: -7130986345506969307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clothes-icon-png-24_5
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 406
+        width: 86
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee8d889a3b7a22e50800000000000000
+      internalID: 6783168378858690798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clothes-icon-png-24_6
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 280
+        width: 79
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b60ffa38387635ee0800000000000000
+      internalID: -1273560455067996053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clothes-icon-png-24_7
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 338
+        width: 58
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b392362589a3d9b90800000000000000
+      internalID: -7233561000595478213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clothes-icon-png-24_8
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 305
+        width: 46
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 461e738feffc287e0800000000000000
+      internalID: -1764619409982758556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clothes-icon-png-24_9
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 218
+        width: 82
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff96f88d7f76a4c30800000000000000
+      internalID: 4344399104740125183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clothes-icon-png-24_10
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 218
+        width: 64
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bef8cf70af076470800000000000000
+      internalID: 8387690013013900984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clothes-icon-png-24_11
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 218
+        width: 61
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1d3da61c70b41160800000000000000
+      internalID: 6995410168216108317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clothes-icon-png-24_12
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 218
+        width: 132
+        height: 141
+      alignment: 9
+      pivot: {x: 0.51462483, y: 0.48630843}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7044194ea47210980800000000000000
+      internalID: -8574529012920925177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clothes-icon-png-24_13
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 65
+        width: 128
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 108af2e7a93363cc0800000000000000
+      internalID: -3731738502594844671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clothes-icon-png-24_14
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 50
+        width: 69
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 224f85182b5bac270800000000000000
+      internalID: 8271623443898233890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clothes-icon-png-24_15
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 30
+        width: 84
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aac11f1ff9beeaf90800000000000000
+      internalID: -6940350903539917654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clothes-icon-png-24_16
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 64
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5b6a9030d5153150800000000000000
+      internalID: 5851607274750634845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clothes-icon-png-24_17
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 30
+        width: 69
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dd98e2f2e04a2c10800000000000000
+      internalID: 2029505925565947352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clothes-icon-png-24_18
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 57
+        width: 70
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a69ab420a9b57b3d0800000000000000
+      internalID: -3190981093947102870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
